@@ -7,3 +7,6 @@ Pequeña demostración de como poder insertar imagenes en MySQL utilizando PDO d
   + 'Foto' debe de ser "mediumblob"
   + 'tipo_imagen' Tiene que ser texto o varchar (si es varchar tiene que tener en cuenta que los tipos de imagenes cambian... por ejemplo la imagen que yo utilice guardo el dato 'image/png')
 2. Este e jercicio funciona con PDO, asi que recomiendo utilizar PHP 5.4.0 en adelante
+3. La página Principal es 'imagenes.php'
+
+El código cuenta con comentarios para que se vea la funcionalidad de este.
